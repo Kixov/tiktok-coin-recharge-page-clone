@@ -32,7 +32,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/Kixov/tiktok-coin-recharge-clone">
     <img src="https://cdn.discordapp.com/attachments/1075878326004109334/1133041590722646096/Sans-titre-1.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -41,7 +41,7 @@
   <p align="center">
     An awesome, unique,  fully customizable coin recharge page for you!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Video presentation</strong></a>
+    <a href="#video"><strong>Video presentation</strong></a>
     <br />
     <br />
     <a href="#About">About</a>
