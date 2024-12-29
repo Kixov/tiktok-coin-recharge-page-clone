@@ -184,7 +184,7 @@ I've spent a lot of time developing this, so a purchase from you would be very m
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [buy-shield]: https://img.shields.io/badge/Buy-8A2BE2?style=for-the-badge&logo=shopify&logoColor=fff&color=darkgreen
-[buy-url]: https://scriptmarket.store/products/tiktok-coins-recharge-page
+[buy-url]: https://discord.gg/EGJsk4yb9P
 
 
 
